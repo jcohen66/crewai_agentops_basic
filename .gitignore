@@ -1,0 +1,4 @@
+.env
+agentops.log
+#requirements.txt
+src/our_crew_of_agents/__pycache__/
